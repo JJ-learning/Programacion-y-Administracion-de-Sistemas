@@ -1,0 +1,19 @@
+[2017-05-22, 10:37:09] --> No existe expresion regular
+[2017-05-22, 10:40:15] --> Recibo la senial: 2
+[2017-05-22, 10:40:40] ==> Recibida la signal=2
+
+[2017-05-22, 10:40:40] ==> Error al enviar la signal de deteccion del programa
+[2017-05-22, 10:40:54] ==> Mensaje escrito: hola caracola
+[2017-05-22, 10:40:54] --> Mensaje escrito: Empareja
+[2017-05-22, 10:40:54] --> hola caracola
+[2017-05-22, 10:40:54] ==> Mensaje escrito: Empareja
+
+[2017-05-22, 10:41:00] ==> Mensaje escrito: jelo
+[2017-05-22, 10:41:00] ==> Mensaje escrito: No Empareja
+
+[2017-05-22, 10:41:00] --> Mensaje escrito: No Empareja
+[2017-05-22, 10:41:00] --> jelo
+[2017-05-22, 10:56:33] ==> Recibida la signal=2
+
+[2017-05-22, 10:56:33] ==> Error al enviar la signal de deteccion del programa
+[2017-05-22, 10:56:35] --> Recibo la senial: 2

@@ -1,0 +1,14 @@
+[PADRE]:Mi PID es 4187 y el PID de mi hijo es 4188
+[PADRE]:Escribimos el número aleatorio 3629 en la tubería.
+[PADRE]:Escribimos el número aleatorio 2813 en la tubería.
+[PADRE]:Escribimos el número aleatorio 2653 en la tubería.
+[PADRE]:Escribimos el número aleatorio 1634 en la tubería.
+[PADRE]:Escribimos el número aleatorio 499 en la tubería.
+[PADRE]:Tubería cerrada.Salgo!
+[HIJO]:Mi PID es 4188 y mi PPID es 4187
+[HIJO]:Leemos el número aleatorio 3629 en la tubería.
+[HIJO]:Leemos el número aleatorio 2813 en la tubería.
+[HIJO]:Leemos el número aleatorio 2653 en la tubería.
+[HIJO]:Leemos el número aleatorio 1634 en la tubería.
+[HIJO]:Leemos el número aleatorio 499 en la tubería.
+[HIJO]:Tubería cerrada.Salgo!

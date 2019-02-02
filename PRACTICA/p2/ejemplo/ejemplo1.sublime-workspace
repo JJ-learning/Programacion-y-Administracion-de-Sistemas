@@ -1,0 +1,708 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"t",
+				"tercerY"
+			],
+			[
+				"ter",
+				"tercerY"
+			],
+			[
+				"se",
+				"segundY"
+			],
+			[
+				"pri",
+				"primerY"
+			],
+			[
+				"prin",
+				"printText"
+			],
+			[
+				"gl",
+				"glVertex2f"
+			],
+			[
+				"pr",
+				"primerY"
+			],
+			[
+				"mo",
+				"mouseYPos"
+			],
+			[
+				"tama",
+				"tamanio"
+			],
+			[
+				"num",
+				"numGrande"
+			],
+			[
+				"tam",
+				"tamanioX"
+			],
+			[
+				"dis",
+				"disminuir"
+			],
+			[
+				"tma",
+				"tamanioGrande"
+			],
+			[
+				"eje",
+				"ejercicio4-cliente"
+			],
+			[
+				"log",
+				"log_msg"
+			],
+			[
+				"M",
+				"MSG_STOP"
+			],
+			[
+				"Ma",
+				"MAX_SIZE"
+			],
+			[
+				"cola_",
+				"cola_servidor"
+			],
+			[
+				"mens",
+				"mensaje"
+			],
+			[
+				"lo",
+				"log_msg"
+			],
+			[
+				"byte",
+				"bytes_leidos"
+			],
+			[
+				"mensa",
+				"mensaje_cad"
+			],
+			[
+				"men",
+				"mensaje_cad"
+			],
+			[
+				"re",
+				"reg_error"
+			],
+			[
+				"ex",
+				"expresion"
+			],
+			[
+				"cola",
+				"cola_cliente"
+			],
+			[
+				"fi",
+				"ficheroWRL"
+			],
+			[
+				"fichero",
+				"ficheroWRL"
+			],
+			[
+				"fich",
+				"ficheroOBJ"
+			],
+			[
+				"fieh",
+				"ficheroWRL"
+			],
+			[
+				"separa",
+				"separacion"
+			],
+			[
+				"ficher",
+				"ficheroOBJ"
+			],
+			[
+				"op",
+				"option_index"
+			],
+			[
+				"b",
+				"bvalue"
+			],
+			[
+				"mostr",
+				"mostrarInfoActual"
+			],
+			[
+				"mostra",
+				"mostrarInfo2"
+			],
+			[
+				"mos",
+				"mostrarInfo"
+			],
+			[
+				"a",
+				"avalue"
+			],
+			[
+				"opt",
+				"optarg"
+			],
+			[
+				"ve",
+				"vector_personas"
+			],
+			[
+				"reu",
+				"result_1"
+			],
+			[
+				"aux",
+				"aux2"
+			],
+			[
+				"bu",
+				"buscarapellido_1_arg"
+			],
+			[
+				"con",
+				"consumidor"
+			],
+			[
+				"pth",
+				"pthread_create"
+			],
+			[
+				"pthr",
+				"pthread"
+			],
+			[
+				"pt",
+				"pthread_join"
+			],
+			[
+				"st",
+				"status"
+			],
+			[
+				"s",
+				"status"
+			],
+			[
+				"E",
+				"EXIT_FAILURE"
+			],
+			[
+				"sem",
+				"sem_post"
+			],
+			[
+				"pro",
+				"productor"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"Con",
+				"Consumir"
+			],
+			[
+				"CONSU",
+				"consumidor"
+			],
+			[
+				"p",
+				"pthread_join"
+			],
+			[
+				"su",
+				"sumaTotal"
+			],
+			[
+				"sum",
+				"sumaDevuelta"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"get",
+				"get_context_data"
+			],
+			[
+				"equipo",
+				"Equipos"
+			],
+			[
+				"lis",
+				"lista_equipos"
+			],
+			[
+				"Equi",
+				"Equipo"
+			],
+			[
+				"gol",
+				"goles_visiatante"
+			],
+			[
+				"gole",
+				"goles_local"
+			],
+			[
+				"de",
+				"default"
+			],
+			[
+				"EXI",
+				"EXIT_SUCCESS"
+			],
+			[
+				"e",
+				"EXIT_FAILURE"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"nom",
+				"nombre_jugador"
+			],
+			[
+				"nomb",
+				"nombre_equipo"
+			],
+			[
+				"j",
+				"jugador5"
+			],
+			[
+				"ju",
+				"jugador3"
+			],
+			[
+				"no",
+				"nombre_jugador"
+			],
+			[
+				"C",
+				"CharField"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 54.0,
+		"last_filter": "bash",
+		"selected_items":
+		[
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"Make",
+				"Set Syntax: Makefile"
+			],
+			[
+				"c",
+				"Set Syntax: C"
+			],
+			[
+				"vmen",
+				"View: Toggle Menu"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 114.0,
+		"history":
+		[
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/IG/Videos/Video4/video4",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/PAS/PRACTICA/p2/ejercicio6.sh",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/PAS/PRACTICA/p2/ejercicio5.sh",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/PAS/PRACTICA/p2/ejercicio4.sh",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/PAS/PRACTICA/p2/ejercicio3.sh",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/PAS/PRACTICA/p2/ejercicio2.sh",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/PAS/PRACTICA/p2/ejercicio1.sh",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/PAS/PRACTICA/p3/peliculas.txt",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/PAS/PRACTICA/p3/IPs.txt",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/PAS/PRACTICA/p3/ejercicio1.sh",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/IG/OpenGL/tarea2/ejemplo.cc",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/IG/OpenGL/tarea1/Makefile",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/IG/OpenGL/tarea1/rectangulo.cc",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/IG/OpenGL/tarea2/Makefile",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/IG/OpenGL/tarea2/Leeme.txt",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/IG/OpenGL/tarea2/El programa consiste en un \"paint\" que es capaz de.pdf",
+		"/home/juanjo/Descargas/Makefile",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/IG/OpenGL/tarea2/ejemplo.c",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/IG/OpenGL/tarea2/MakeFile",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/IG/OpenGL/tarea2/make",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/IG/OpenGL/tarea2/make+ç",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/PAS/PRACTICA/p3/prueba.sh",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/IG/VRML/tarea6/Leeme.txt",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/IG/Apuntes",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/IG/Videos/Video3/video3",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/IG/OpenGL/ejemplo.c",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/PAS/PRACTICA/p1/Makefile",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/IG/VRML/tarea6/prueba2.wrl",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/IG/VRML/tarea6/Circuito.wrl",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/IG/VRML/Video3/video3",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/PAS/PRACTICA/p2/prueba3.sh",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/PAS/PRACTICA/p2/ejemplo.html",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/PAS/PRACTICA/p1/ejercicio1.c",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/PAS/PRACTICA/p1/ejercicio2.c",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/PAS/PRACTICA/p1/ejercicio3.c",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/PAS/PRACTICA/p1/ejercicio4-cliente.c",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/PAS/PRACTICA/p1/ejercicio4-servidor.c",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/IG/OpenGL/Apuntes",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/IG/VRML/Apuntes",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/PAS/PRACTICA/p2/guionPractica2.pdf",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/IG/tarea6/prueba2.wrl",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/IG/tarea6/Circuito.wrl",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/IG/tarea6/animacion.wrl",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/IG/tarea6/coche2.wrl",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/IG/tarea3/coche.wrl",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/PAS/PRACTICA/p2/ejemplo1.sh",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/IG/tarea6/ejemplo.wrl",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/LE/PracticaTema13",
+		"/home/juanjo/Descargas/orienint.wrl",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/IG/tarea6/reloj.wrl",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/IG/tarea5/ironman.wrl",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/IG/Video3/video3",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/LE/Practica 9.1",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/IG/tarea6/tropicalDemo.wrz",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/IG/tarea6/metalsDemo.wrz",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/IG/tarea6/artdecoDemo.wrz",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/IG/Video2/Video 2: Antecedentes",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/PAS/PRACTICA/p2/ejemplo/eje8.c",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/PAS/PRACTICA/p2/ejemplo/eje7.c",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/PAS/PRACTICA/p2/ejemplo/eje5.c",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/PAS/PRACTICA/p2/ejemplo/1a.c",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/PAS/PRACTICA/p2/ejemplo/eje4.c",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/PAS/PRACTICA/p1/dump.dat",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/PAS/PRACTICA/p1/log-servidor.txt",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/PAS/PRACTICA/p1/common.h",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/IG/tarea5/animacion.wrl",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/IG/tarea5/Leeme.txt",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/IG/tarea4/Ironman2.wrl",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/IG/ejemplo4.wrl",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/IG/Video1/Video 1: Introducción",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/IG/tarea4/Leeme.txt",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/IG/ejemplo2.wrl",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/IG/ejemplo3.wrl",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/LE/Practica Tema9",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/LE/PracticaTema92",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/IG/tarea4/Mark 42 Helm.obj",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/IG/Bugatti-Veyron.wrl",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/IG/tarea4/Mark 42 Helm.wrl",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/LE/Practica Tema7",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/PAS/PRACTICA/Baena/1/common.h",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/PAS/PRACTICA/Baena/1/ejercicio4-cliente.c",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/PAS/PRACTICA/Baena/1/ejercicio4-servidor.c",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/PAS/PRACTICA/Baena/1/log-servidor.txt",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/PAS/PRACTICA/Baena/1/Makefile",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/IG/Video 1: Introducción",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/IG/tarea3/Leeme.txt",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/IG/tarea1/Leeme.txt",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/IG/tarea2/script.py",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/IG/McLaren 2001.obj",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/IG/McLaren.wrl",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/IG/coche.wrl",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/IG/script.py",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/IG/Leeme.txt",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/PAS/PRACTICA/Baena/1/ejercicio3.c",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/IG/iPhone_6.obj",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/PAS/PRACTICA/ejercicio3.c",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/PAS/PRACTICA/dump.dat",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/IG/ejemplo.wrl",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/IG/mustang.obj",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/LE/Practica Tema 4",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/LE/Practica Tema2",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/IG/tarea1/super.wrl",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/IG/tarea1/super.x3d",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/IG/Comboy.obj",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/PAS/PRACTICA/p1/codigo-ejemplo/10-procesos/ejemplo-fork.c",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/PAS/PRACTICA/p1/codigo-ejemplo/10-procesos/ejemplo-fork-exec.c",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/PAS/PRACTICA/p1/codigo-ejemplo/11-seniales/ejemplo-signal-division.c",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/PAS/PRACTICA/p1/codigo-ejemplo/7-informacion-usuario/ejemplo-infousuario.c",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/PAS/PRACTICA/p1/codigo-ejemplo/11-seniales/ejemplo-signal.c",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/PAS/PRACTICA/p1/codigo-ejemplo/6-variables-entorno/ejemplo-getenv.c",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/PAS/PRACTICA/p1/codigo-ejemplo/12-pipes-y-colas/common.h",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/PAS/PRACTICA/p1/codigo-ejemplo/12-pipes-y-colas/cliente.c",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/PAS/PRACTICA/p1/codigo-ejemplo/12-pipes-y-colas/ejemplo-mq.c",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/PAS/PRACTICA/p1/codigo-ejemplo/12-pipes-y-colas/servidor.c",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/PAS/PRACTICA/p1/codigo-ejemplo/5-linea-de-comandos/ejemplo-getopt.c",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/PAS/PRACTICA/p1/codigo-ejemplo/5-linea-de-comandos/ejemplo-getoptlong.c",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/IG/tarea1/super.xml",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/IG/tarea1/ejemplo.wrl",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/PAS/PRACTICA/Baena/1/ejercicio2.c",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/PAS/PRACTICA/Baena/1/ejercicio1.c",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/IG/super.xml",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/IG/super.wrl",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/IG/Bugatti-Veyron.obj",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/IG/super.x3dv",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/IG/Batmobile.obj",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/IG/superposicion.wrl",
+		"/home/juanjo/Escritorio/Uni/2ºCuatri/PAS/PRACTICA/p1/eje1.c",
+		"/home/juanjo/Escritorio/Repaso/JuEq/views.py"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"drawPoint",
+			"printText(10, 10, string);",
+			"ejemplo",
+			"ejercicio1",
+			"glClear(GL_COLOR_BUFFER_BIT); ",
+			"*********",
+			"********",
+			"*******",
+			"******",
+			"*****",
+			"****",
+			"y",
+			"$1/",
+			"3",
+			">",
+			"5",
+			"3",
+			"-",
+			"+",
+			"2",
+			"1",
+			"0.2",
+			"20",
+			"diffuseColor 0 0 0",
+			"8793\n               specularColor 0.513726 0.415686 0.219608\n               emissiveColor 0.000000 0.000000 0.000000\n               shininess 11.487200\n               transparency 0.000000",
+			" diffuseColor 0.087755 0.063946 0.183051\n\t\t\t               ambientIntensity 0.243243\n\t\t\t               specularColor 0.234804 0.171098 0.489785\n\t\t\t               emissiveColor 0.000000 0.000000 0.000000\n\t\t\t               shininess 0.070270\n\t\t\t               transparency 0.000000",
+			".243243\n               specularColor 0.234804 0.171098 0.489785\n               emissiveColor 0.000000 0.000000 0.000000\n               shininess 0.070270\n               transparency 0.000000",
+			"diffuseColor 0.000000 0.748016 0.176015\n               ambientIntensity 0.250000\n               specularColor 0.981818 0.981818 0.981818\n               emissiveColor 0.000000 0.000000 0.000000\n               shininess 0.721212\n               transparency 0.000000",
+			"0.000000\n                specularColor 0.293243 0.297387 0.290421\n                emissiveColor 0.000000 0.000000 0.000000\n                shininess 0.081633\n                transparency 0.000000",
+			"diffuseColor 0.282435 0.085159 0.134462\n\t\t\t\t                ambientIntensity 0.250000\n\t\t\t\t                specularColor 0.276305 0.114310 0.139857\n\t\t\t\t                emissiveColor 0.000000 0.000000 0.000000\n\t\t\t\t                shininess 0.127273\n\t\t\t\t                transparency 0.000000",
+			"0000\n                specularColor 0.276305 0.114310 0.139857\n                emissiveColor 0.000000 0.000000 0.000000\n                shininess 0.127273\n                transparency 0.000000",
+			"diffuseColor 1 1 1",
+			"0000\n               specularColor 0.981818 0.981818 0.981818\n               emissiveColor 0.000000 0.000000 0.000000\n               shininess 0.721212\n               transparency 0.000000",
+			"10",
+			",",
+			"-10",
+			"ty 0.250000\n               specularColor 0.709091 0.709091 0.709091\n               emissiveColor 0.000000 0.000000 0.000000\n               shininess 0.478788\n               transparency 0.000000",
+			"diffuseColor 0.000000 0.000000 0.000000\n\t\t               ambientIntensity 0.000000\n\t\t               specularColor 0.622449 0.622449 0.622449\n\t\t               emissiveColor 0.023906 1.000000 0.002390\n\t\t               shininess 0.051020\n\t\t               transparency 0.000000",
+			"tensity 0.208333\n               specularColor 0.053032 0.045607 0.134715\n               emissiveColor 0.000000 0.000000 0.000000\n               shininess 0.098446\n               transparency 0.000000",
+			"diffuseColor 0.000000 0.000000 0.000000\n\t\t                ambientIntensity 0.000000\n\t\t                specularColor 0.918367 0.910614 0.885116\n\t\t                emissiveColor 0.000000 0.000000 0.000000\n\t\t                shininess 0.056122\n\t\t                transparency 0.235521",
+			"-",
+			"0.0",
+			"Subida1",
+			"DEF",
+			"rm",
+			"medianos",
+			"pequenios",
+			"B",
+			"join",
+			"Derecha",
+			"1",
+			"4",
+			"6",
+			"IZQ",
+			"0.3 1 1",
+			"ANTEBRAZO",
+			"6",
+			"[",
+			"funcionLong",
+			"time",
+			"eFichero",
+			"mq_cliente",
+			"reg",
+			"controlador",
+			"0 0.3 0.4",
+			"0.2 0.5 0.5",
+			"2",
+			"6",
+			"0.2 0.5 0",
+			"0.7 1 0",
+			"0.2 0.5 0",
+			"0.4 0.4 0.5",
+			"0 0.9 0.7",
+			"1",
+			"4",
+			"1",
+			"4",
+			"5",
+			"1",
+			"5",
+			"64603",
+			"6403",
+			"coord",
+			"rf",
+			".",
+			"MAX",
+			"productor",
+			"Hijo",
+			"ory",
+			"id",
+			"d",
+			"LL)",
+			"SUCCESS",
+			"home",
+			"LigaFantasticaUCO",
+			"ForeingKey",
+			"LigaFantasticaUCO",
+			"ForeingKey",
+			"1"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ejemplo1.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 107.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

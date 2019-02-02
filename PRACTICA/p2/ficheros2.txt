@@ -1,0 +1,8 @@
+
+ejemplo/ejercicio1.sh
+ejemplo/eje5.c
+ejemplo/eje4.c
+ejemplo/eje7.c
+ejemplo/ejemplo1.sh
+ejemplo/1a.c
+ejemplo/eje8.c
